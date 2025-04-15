@@ -73,6 +73,44 @@ I'm always curious, always learning, and always looking to grow as a developer.
 </div>
 
 ---
+## 🪄 My Project
+
+### 📌 Project Name 1
+- **📂 GitHub**: [💾](https://github.com/pixel0823/ya-pixel)
+- **🌐 Demo**: [❌ ~ing](#)
+- **📖 Description**:  
+  ### 🎮 2D Pixel Platformer Game (Graduation Project)
+
+  - 📌 **Status**: In Progress  
+  - 👥 **Team Project** – Developed as our university graduation project
+
+  #### 🧩 My Role
+  - 🎮 Designed the **game’s storyline** and participated in core **game development**
+  - ☁️ Built and configured the **EC2 server** and **RDS (PostgreSQL)** for backend infrastructure
+  - 🗂 Designed the **database schema**
+  - 🌐 Currently developing the **accompanying website**
+
+  > A 2D pixel platformer game that blends immersive storytelling with classic retro visuals.
+
+
+---
+
+### 📌 Project Name 2
+- **📂 GitHub**: [💾](https://github.com/Ka11yV/paw_rest_fe)
+- **🌐 Demo**: [❌](#)
+- **📖 Description**:
+  ### 
+  
+
+---
+
+### 📌 Project Name 3
+- **📂 GitHub**: [](#)
+- **🌐 Demo**: [](#)
+- **📖 Description**:  
+
+
+---
 
 ## 📊 GitHub Stats
 
