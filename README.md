@@ -75,7 +75,7 @@ I'm always curious, always learning, and always looking to grow as a developer.
 ---
 ## 🪄 My Project
 
-### 📌 Project Name 1
+### 📌 Pixel
 - **📂 GitHub**: [💾](https://github.com/pixel0823/ya-pixel)
 - **🌐 Demo**: [❌ ~ing](#)
 - **📖 Description**:  
