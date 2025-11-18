@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 Hi! I'm **Jiwoo Son**,  
-a university student from South Korea who is passionate about backend development.  
+a university student , who is passionate about backend development.  
 Rather than just relying on school lectures, I enjoy exploring new things on my own.  
 I'm always curious, always learning, and always looking to grow as a developer.  
 
